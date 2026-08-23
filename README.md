@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Meheraz321&theme=dark)](https://github.com/Meheraz321)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meheraz321&layout=compact&theme=dark)](https://github.com/Meheraz321)
-![Capsulate Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meheraz321&theme=dark)
