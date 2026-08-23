@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/Meheraz321">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meheraz321&show_icons=true&theme=radial" alt="Meheraz's GitHub stats" />
-</a>
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Meheraz321&theme=dark)](https://github.com/Meheraz321)
